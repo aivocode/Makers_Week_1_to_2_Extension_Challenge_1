@@ -1,0 +1,5 @@
+*venv*
+*pytest*
+*pycache*
+monthly_responses
+AirQualityMarch.csv
